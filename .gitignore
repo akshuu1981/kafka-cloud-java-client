@@ -1,1 +1,4 @@
 client.properties
+./gradle
+build/*
+bin/*
